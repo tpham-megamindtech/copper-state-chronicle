@@ -8,7 +8,7 @@ coverImage: "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=f
 imageCredit: "Unsplash/Sarah Chai"
 ---
 
-> **Editor's note:** This article is a fictional case study created for training and educational purposes. "Glamorous Nail Spa" and all individuals, quotes, and events described are illustrative composites, not reporting on a real business. Any resemblance to an actual salon, chain, or person is coincidental.
+
 
 Every service business eventually faces a moment where a small operational shortcut — an undisclosed fee, a rushed explanation, a defensive reflex at the front desk — collides with a customer's expectations in public view. The following case study walks through how that collision played out for a fictional salon, "Glamorous Nail Spa," and why the actual damage came less from the original mistake than from how the business responded to it. For beauty and wellness operators, the throughline is simple: transparency and accountability are cheaper than the alternative, every time.
 
