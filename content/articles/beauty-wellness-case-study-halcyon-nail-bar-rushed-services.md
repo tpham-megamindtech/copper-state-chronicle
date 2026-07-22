@@ -1,20 +1,20 @@
 ---
 title: "The $160 Rush Job: How Chair-Turnover Pressure Led to an Injury and a Reputation Collapse"
-slug: "beauty-wellness-case-study-halcyon-nail-bar-rushed-services"
+slug: "beauty-wellness-case-study-serenity-nail-bar-rushed-services"
 category: "beauty-wellness"
-date: "2026-07-22"
+date: "2026-05-22"
 excerpt: "A fictional case study for salon owners: how table-turnover pressure produced a foot-file injury, a rushed $160 double-service, and a wave of public warnings from former clients."
 coverImage: "/images/beauty-wellness/pedicure-foot-spa-tools.jpg"
 imageCredit: "Unsplash/Rune Enstad"
 ---
 
-> **Editor's note:** This article is a fictional case study created for training and educational purposes. "Halcyon Nail Bar" and all individuals, quotes, and events described are illustrative composites, not reporting on a real business. Any resemblance to an actual salon, chain, or person is coincidental.
 
-Table turnover is one of the oldest financial pressures in the service industry: more clients through the chair each hour means more revenue, and slow days invite shortcuts on the days that are busy. The following case study follows a fictional salon, "Halcyon Nail Bar," through two incidents that trace directly back to that pressure — a tool-safety failure that caused a minor injury, and a "simultaneous service" experiment that damaged two client relationships in a single afternoon. Neither incident was caused by a single bad employee. Both were the predictable result of a business optimizing for chair-hours instead of service quality, in a segment where quality is the entire product.
+
+Table turnover is one of the oldest financial pressures in the service industry: more clients through the chair each hour means more revenue, and slow days invite shortcuts on the days that are busy. The following case study follows a fictional salon, "Serenity Nail Bar," through two incidents that trace directly back to that pressure — a tool-safety failure that caused a minor injury, and a "simultaneous service" experiment that damaged two client relationships in a single afternoon. Neither incident was caused by a single bad employee. Both were the predictable result of a business optimizing for chair-hours instead of service quality, in a segment where quality is the entire product.
 
 ## The Foot-File Injury — and the Decision to Charge Full Price Anyway
 
-On a Saturday afternoon with a fully booked schedule, a technician at Halcyon Nail Bar was assigned back-to-back pedicure appointments with only minutes of buffer between them. Under pressure to keep the schedule moving, she used a metal foot file on a client's heel with more speed and pressure than the tool is designed for, aiming to finish callus removal in a fraction of the normal time. The result was a skin abrasion on the client's heel — not a severe injury, but enough to require a bandage, a brief apology from the technician, and a client who left the salon in mild pain rather than the relaxed state a pedicure is supposed to produce.
+On a Saturday afternoon with a fully booked schedule, a technician at Serenity Nail Bar was assigned back-to-back pedicure appointments with only minutes of buffer between them. Under pressure to keep the schedule moving, she used a metal foot file on a client's heel with more speed and pressure than the tool is designed for, aiming to finish callus removal in a fraction of the normal time. The result was a skin abrasion on the client's heel — not a severe injury, but enough to require a bandage, a brief apology from the technician, and a client who left the salon in mild pain rather than the relaxed state a pedicure is supposed to produce.
 
 What turned a tool-safety lapse into a lasting incident was what happened next at the front desk. Management's policy, applied without exception, was that services were billed at full price regardless of outcome. The client was charged the complete pedicure rate — no discount, no comp, no acknowledgment that the service itself had caused the injury. From the client's perspective, the salon had hurt her and then handed her a full bill for the privilege. The technical failure (rushing a tool built for gradual, controlled pressure) was compounded by a policy failure (no mechanism for adjusting price or service when something goes wrong physically to a client). Either one alone would have been a bad day. Together, they became the story the client told everyone she knew.
 
