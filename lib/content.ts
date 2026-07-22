@@ -27,11 +27,7 @@ export interface Article extends ArticleMeta {
   contentHtml: string;
 }
 
-let cachedMeta: ArticleMeta[] | null = null;
-
 function loadAllMeta(): ArticleMeta[] {
-  if (cachedMeta) return cachedMeta;
-
   const filenames = fs.readdirSync(ARTICLES_DIR).filter((f) => f.endsWith(".md"));
 
   const articles = filenames.map((filename) => {
@@ -43,7 +39,6 @@ function loadAllMeta(): ArticleMeta[] {
 
   articles.sort((a, b) => (a.date < b.date ? 1 : -1));
 
-  cachedMeta = articles;
   return articles;
 }
 

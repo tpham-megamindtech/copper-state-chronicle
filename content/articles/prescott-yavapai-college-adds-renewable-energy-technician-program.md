@@ -4,8 +4,8 @@ slug: "prescott-yavapai-college-adds-renewable-energy-technician-program"
 excerpt: "Yavapai College launched a new technician training program focused on renewable energy."
 category: "education"
 date: "2026-01-16"
-coverImage: "https://images.unsplash.com/photo-1580537659466-0a139dfbb2be?auto=format&fit=crop&w=1200&h=800&q=80"
-imageCredit: "Unsplash/Kenny Eliason"
+coverImage: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1200&h=800&q=80"
+imageCredit: "Unsplash/American Public Power Association"
 ---
 District and campus leaders in Prescott say the change reflects months of planning and input from families, faculty, and students.
 

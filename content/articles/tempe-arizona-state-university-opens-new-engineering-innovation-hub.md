@@ -4,7 +4,7 @@ slug: "tempe-arizona-state-university-opens-new-engineering-innovation-hub"
 excerpt: "ASU's Tempe campus opened a new hub dedicated to student engineering projects."
 category: "education"
 date: "2026-07-20"
-coverImage: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&h=800&q=80"
+coverImage: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash/Vasily Koloda"
 ---
 District and campus leaders in Tempe say the change reflects months of planning and input from families, faculty, and students.

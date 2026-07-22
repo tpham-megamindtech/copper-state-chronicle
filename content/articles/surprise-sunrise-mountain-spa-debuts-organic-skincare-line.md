@@ -4,7 +4,7 @@ slug: "surprise-sunrise-mountain-spa-debuts-organic-skincare-line"
 excerpt: "A Surprise spa introduced a new organic skincare line made with regional ingredients."
 category: "beauty-wellness"
 date: "2025-09-16"
-coverImage: "https://images.unsplash.com/photo-1591343395902-1eb7770071e1?auto=format&fit=crop&w=1200&h=800&q=80"
+coverImage: "https://images.unsplash.com/photo-1556760544-74068565f05c?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash/Angela Bailey"
 ---
 The news comes as wellness businesses across Surprise report steady demand from both longtime regulars and a growing number of visitors drawn to the desert lifestyle.

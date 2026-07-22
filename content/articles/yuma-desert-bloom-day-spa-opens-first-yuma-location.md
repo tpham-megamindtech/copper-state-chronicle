@@ -4,7 +4,7 @@ slug: "yuma-desert-bloom-day-spa-opens-first-yuma-location"
 excerpt: "A regional spa chain opened its first Yuma location this month."
 category: "beauty-wellness"
 date: "2026-01-16"
-coverImage: "https://images.unsplash.com/photo-1610462224500-b5e1b845b8f2?auto=format&fit=crop&w=1200&h=800&q=80"
+coverImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash/Chelsea Shapouri"
 ---
 The news comes as wellness businesses across Yuma report steady demand from both longtime regulars and a growing number of visitors drawn to the desert lifestyle.

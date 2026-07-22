@@ -37,9 +37,9 @@ export default function HomePage() {
               </Link>
             </div>
 
-            <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
+            <div className="grid grid-cols-1 gap-8 lg:grid-cols-3 lg:items-start">
               <div className="lg:col-span-2">
-                <ArticleCard article={lead} />
+                <ArticleCard article={lead} featured />
               </div>
               <div className="divide-y divide-canyon-100 lg:col-span-1">
                 {rest.map((article) => (

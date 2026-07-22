@@ -4,7 +4,7 @@ slug: "peoria-sundown-skincare-studio-sources-ingredients-from-local-farms"
 excerpt: "A Peoria skincare studio switched to locally farmed ingredients for its full product line."
 category: "beauty-wellness"
 date: "2026-02-01"
-coverImage: "https://images.unsplash.com/photo-1585652757141-8aa63075f60b?auto=format&fit=crop&w=1200&h=800&q=80"
+coverImage: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash/Alexandra Tran"
 ---
 The news comes as wellness businesses across Peoria report steady demand from both longtime regulars and a growing number of visitors drawn to the desert lifestyle.
