@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fdfaf6;
+  --foreground: #241b15;
+
+  --color-brand-50: #fdf5f0;
+  --color-brand-100: #fae6d9;
+  --color-brand-200: #f4c9a8;
+  --color-brand-300: #eba473;
+  --color-brand-400: #de7d47;
+  --color-brand-500: #c65a2e;
+  --color-brand-600: #a8451f;
+  --color-brand-700: #86341a;
+  --color-brand-800: #6b2c19;
+  --color-brand-900: #572616;
+
+  --color-turq-50: #eefbfa;
+  --color-turq-100: #d1f3ef;
+  --color-turq-200: #a6e6de;
+  --color-turq-300: #71d1c5;
+  --color-turq-400: #3fb3a6;
+  --color-turq-500: #1f958a;
+  --color-turq-600: #187971;
+  --color-turq-700: #16625c;
+  --color-turq-800: #164f4b;
+  --color-turq-900: #15413e;
+
+  --color-canyon-50: #f7f4f1;
+  --color-canyon-100: #ece4dc;
+  --color-canyon-200: #d8c7b8;
+  --color-canyon-300: #bfa38c;
+  --color-canyon-400: #9c7c5f;
+  --color-canyon-500: #7d6146;
+  --color-canyon-600: #634d38;
+  --color-canyon-700: #4d3c2c;
+  --color-canyon-800: #382c21;
+  --color-canyon-900: #241b15;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-heading);
+
+  --color-brand-50: var(--color-brand-50);
+  --color-brand-100: var(--color-brand-100);
+  --color-brand-200: var(--color-brand-200);
+  --color-brand-300: var(--color-brand-300);
+  --color-brand-400: var(--color-brand-400);
+  --color-brand-500: var(--color-brand-500);
+  --color-brand-600: var(--color-brand-600);
+  --color-brand-700: var(--color-brand-700);
+  --color-brand-800: var(--color-brand-800);
+  --color-brand-900: var(--color-brand-900);
+
+  --color-turq-50: var(--color-turq-50);
+  --color-turq-100: var(--color-turq-100);
+  --color-turq-200: var(--color-turq-200);
+  --color-turq-300: var(--color-turq-300);
+  --color-turq-400: var(--color-turq-400);
+  --color-turq-500: var(--color-turq-500);
+  --color-turq-600: var(--color-turq-600);
+  --color-turq-700: var(--color-turq-700);
+  --color-turq-800: var(--color-turq-800);
+  --color-turq-900: var(--color-turq-900);
+
+  --color-canyon-50: var(--color-canyon-50);
+  --color-canyon-100: var(--color-canyon-100);
+  --color-canyon-200: var(--color-canyon-200);
+  --color-canyon-300: var(--color-canyon-300);
+  --color-canyon-400: var(--color-canyon-400);
+  --color-canyon-500: var(--color-canyon-500);
+  --color-canyon-600: var(--color-canyon-600);
+  --color-canyon-700: var(--color-canyon-700);
+  --color-canyon-800: var(--color-canyon-800);
+  --color-canyon-900: var(--color-canyon-900);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+}
+
+.prose-article :where(h2, h3) {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+.desert-divider {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-turq-400) 0,
+    var(--color-turq-400) 8px,
+    transparent 8px,
+    transparent 16px
+  );
+  height: 3px;
+}
