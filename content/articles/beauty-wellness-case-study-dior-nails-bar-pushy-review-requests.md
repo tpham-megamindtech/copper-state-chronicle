@@ -2,7 +2,7 @@
 title: "The Five-Star Work and the Awkward Ask: How Pressuring a Client to Review Mid-Service Undercut a Flawless Manicure at Dior Nails Bar"
 slug: "beauty-wellness-case-study-dior-nails-bar-pushy-review-requests"
 category: "beauty-wellness"
-date: "2026-07-23"
+date: "2026-07-12"
 excerpt: "A fictional case study for salon owners: how pushing a client to post a review while her nails were still drying — plus card-free payment and a miscalculated discount — turned genuinely loved work into a lukewarm write-up."
 coverImage: "/images/beauty-wellness/pedicure-foot-spa-tools.jpg"
 imageCredit: "Unsplash/Rune Enstad"
